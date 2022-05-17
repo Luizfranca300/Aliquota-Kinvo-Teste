@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyCFWDsPt9xRbdGEq/qei8q8jHzzox1HDoW5ynHBphZHExCKbLnnoSoEwjNnDLhWa7Xl5AEU9V9qx9RxRK2huA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizf\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
