@@ -22,3 +22,15 @@ C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Aliquota\src\Aliquota.Dominio\ob
 C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\refint\Aliquota.Dominio.dll
 C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.pdb
 C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\ref\Aliquota.Dominio.dll
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\bin\Debug\net5.0\Aliquota.Dominio.deps.json
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\bin\Debug\net5.0\Aliquota.Dominio.dll
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\bin\Debug\net5.0\Aliquota.Dominio.pdb
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.csproj.AssemblyReference.cache
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.AssemblyInfoInputs.cache
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.AssemblyInfo.cs
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.dll
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\refint\Aliquota.Dominio.dll
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\Aliquota.Dominio.pdb
+C:\Users\luizf\Dropbox\PC\Desktop\Luiz\Trabalho\Kinvo\Aliquota\src\Aliquota.Dominio\obj\Debug\net5.0\ref\Aliquota.Dominio.dll

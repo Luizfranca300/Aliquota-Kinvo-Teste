@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMqrN8LZpME18dN0eX4C/nvj7JVqQGjEEHLWsswYXd/dhc2hNkVEXansNli58YqQ2Hk2pGDNZdCfF8sfc6enoA==",
+  "dgSpecHash": "ten6zgQOvWPZG3JdWyqMNxNLoEBTtjajUjMSNSVEVvxzjcYIHoMCKpNErBAHyEkHMcx8ntGo9Bodd+EdSQ+Vnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota\\Aliquota.csproj",
+  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota\\Aliquota.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizf\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
     "C:\\Users\\luizf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

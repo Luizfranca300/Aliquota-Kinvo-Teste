@@ -9,6 +9,8 @@ namespace Aliquota.Dominio.Entidades
 {
     public class ProdutoFinanceiro: Entidade
     {
+       
+
         public int ProdutoFinanceiroId { get; set; }
         public string Nome { get; set; }
         public string Descricao { get; set; }
@@ -17,6 +19,14 @@ namespace Aliquota.Dominio.Entidades
         public ICollection<Resgate> Resgate { get; }
         public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
+
+        public ProdutoFinanceiro(int produtoFinanceiroId, string nome, string descricao, double porcentagemRentabilidade)
+        {
+            ProdutoFinanceiroId = produtoFinanceiroId;
+            Nome = nome;
+            Descricao = descricao;
+            PorcentagemRentabilidade = porcentagemRentabilidade;
+        }
 
         public override bool EhValido()
         {

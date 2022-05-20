@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NyCFWDsPt9xRbdGEq/qei8q8jHzzox1HDoW5ynHBphZHExCKbLnnoSoEwjNnDLhWa7Xl5AEU9V9qx9RxRK2huA==",
+  "dgSpecHash": "C5WsIun22eUaaQEwYBCgpupBfkbnaiLDGjGXrIdOLgF4ySFHu9bIWm3/J1L0uPKtK267SrS2DaJ8hiWF4NguVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizf\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512"
   ],

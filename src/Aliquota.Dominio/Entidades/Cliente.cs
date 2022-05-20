@@ -10,6 +10,8 @@ namespace Aliquota.Dominio.Entidades
 {
     public class Cliente : Entidade
     {
+       
+
         public int ClienteId { get; set; }
         public string Nome { get; set; }
         public string Cpf { get; set; }
@@ -18,6 +20,12 @@ namespace Aliquota.Dominio.Entidades
         public ICollection<ProdutoFinanceiro> ProdutoFinanceiro{ get;}
         public Carteira Carteira { get; set; }
 
+        public Cliente(string nome, string cpf, DateTime dataNascimento)
+        {
+            Nome = nome;
+            Cpf = cpf;
+            DataNascimento = dataNascimento;
+        }
 
         public override bool EhValido()
         {

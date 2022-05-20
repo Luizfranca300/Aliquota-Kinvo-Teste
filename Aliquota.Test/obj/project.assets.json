@@ -8592,11 +8592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\Aliquota.Test\\Aliquota.Test.csproj",
+      "projectUniqueName": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\Aliquota.Test\\Aliquota.Test.csproj",
       "projectName": "Aliquota.Test",
-      "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\Aliquota.Test\\Aliquota.Test.csproj",
+      "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\Aliquota.Test\\Aliquota.Test.csproj",
       "packagesPath": "C:\\Users\\luizf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\Aliquota.Test\\obj\\",
+      "outputPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\Aliquota.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8617,14 +8617,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj": {
-              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj"
+            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj": {
+              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota.Dominio\\Aliquota.Dominio.csproj"
             },
-            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Infra\\Aliquota.Infra.csproj": {
-              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota.Infra\\Aliquota.Infra.csproj"
+            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota.Infra\\Aliquota.Infra.csproj": {
+              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota.Infra\\Aliquota.Infra.csproj"
             },
-            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota\\Aliquota.csproj": {
-              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Aliquota\\src\\Aliquota\\Aliquota.csproj"
+            "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota\\Aliquota.csproj": {
+              "projectPath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Kinvo\\Aliquota\\src\\Aliquota\\Aliquota.csproj"
             }
           }
         }
